@@ -1,0 +1,33 @@
+DATA SET 1:
+The semi-weekly river flow measurements (in cubic feet per second) cover a period  from December 1992 to January 1993.
+All measurements are approximate and rounded to 2 places after the decimal point.
+Average river flow: 17.69375 ft^3/s.
+From December to January the flow increased by 16.46 ft^3/s.
+From the 1st half of December to the 2nd half of December the flow decreased by 1.57 ft^3/s.
+From the 1st half of January to the 2nd half of January the flow increased by 24.35 ft^3/s.
+From the 1st quarter of December to the 2nd quarter of December, the flow decreased by 1.5 ft^3/s.
+From the 3rd quarter of December to the 4th quarter of December, the flow increased by 0.25 ft^3/s.
+From the 1st quarter of January to the 2nd quarter of January, the flow decreased by 3.5 ft^3/s.
+From the 3rd quarter of January to the 4th quarter of January, the flow increased by 60.8 ft^3/s.
+Weekly changes were as follows:
+	Week 1 of December: an increase of 2 ft^3/s.
+	Week 2 of December: a drop of 5 ft^3/s.
+	Week 3 of December: an increase of 1.1 ft^3/s.
+	Week 4 of December: an increase of 1.2 ft^3/s.
+	Week 1 of January: a drop of 1 ft^3/s.
+	Week 2 of January: a drop of 2 ft^3/s.
+	Week 3 of January: an increase of 2.6 ft^3/s.
+	Week 4 of January: an increase of 99 ft^3/s.
+
+DATA SET 2:
+1) What is the average temperature?
+28.79 degrees Celsius
+
+2) How did the temperature change from the 1st half to the 2nd half of the period?
+1.06 degrees Celsius
+
+3) How did the temperature change from the 1st quarter to the 2nd quarter?
+0.59 degrees Celsius
+
+4) How did the temperature change from the 3rd quarter to the 4th quarter?
+1.2 degrees Celsius
