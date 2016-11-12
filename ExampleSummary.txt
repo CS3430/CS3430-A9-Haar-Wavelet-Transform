@@ -1,0 +1,20 @@
+The semi-weekly ground frost depth measurements (in cm) cover the period from December 1992 to January 1993.
+All measurements are approximate and rounded to 2 places after the decimal point.
+The average ground frost depth is 40.49cm.
+From December to January the depth decreased by 3cm.
+From the 1st half of December to the 2nd half of December the depth increased by 11cm.
+From the 1st half of January to the 2nd half of January the depth dropped by 3.5cm.
+From the 1st quarter of December to the 2nd quarter of December, the depth increased by 24cm.
+From the 3rd quarter of December to the 4th quarter of December, the depth decreased by 0.3cm.
+From the 1st quarter of January to the 2nd quarter of January, the depth dropped by 2.5cm.
+From the 3rd quarter of January to the 4th quarter of January, the depth dropped by 8.5cm.
+Weekly changes were as follows.
+	Week 1 of December: an increase of 5cm;
+	
+Week 2 of December: a drop of 1.3cm;
+	Week 3 of December: an increase of 1.5cm.
+	Week 4 of December: an drop of 1cm;
+	Week 1 of January: a drop of 2cm;
+	Week 2 of January: a drop of 3cm;
+	Week 3 of January: an increase of 11cm;
+	Week 4 of January: a drop of 2cm.
