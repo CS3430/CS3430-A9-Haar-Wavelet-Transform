@@ -10,8 +10,7 @@ From the 1st quarter of January to the 2nd quarter of January, the depth dropped
 From the 3rd quarter of January to the 4th quarter of January, the depth dropped by 8.5cm.
 Weekly changes were as follows.
 	Week 1 of December: an increase of 5cm;
-	
-Week 2 of December: a drop of 1.3cm;
+	Week 2 of December: a drop of 1.3cm;
 	Week 3 of December: an increase of 1.5cm.
 	Week 4 of December: an drop of 1cm;
 	Week 1 of January: a drop of 2cm;
